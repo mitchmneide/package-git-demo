@@ -1,5 +1,6 @@
 {
   "name": "@mitchmneide/packages",
+  "repository": "git://github.com/mitchmneide/package-git-demo.git",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
